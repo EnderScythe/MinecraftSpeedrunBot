@@ -1,0 +1,4 @@
+name: SpeedrunBot
+version: '1.0-SNAPSHOT'
+main: me.ender.speedrunbot.Main
+api-version: '1.20'
