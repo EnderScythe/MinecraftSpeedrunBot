@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d54da423-6f65-410b-8521-e5dfb54832bc",
+    "name": "Enderscythe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

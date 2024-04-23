@@ -2,3 +2,4 @@ name: SpeedrunBot
 version: '${project.version}'
 main: me.ender.speedrunbot.Main
 api-version: '1.20'
+depend: [ProtocolLib]

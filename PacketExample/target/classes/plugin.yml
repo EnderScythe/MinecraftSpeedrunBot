@@ -1,0 +1,8 @@
+name: PacketExample
+version: '1.0-SNAPSHOT'
+main: me.ender.packetexample.Main
+api-version: '1.20'
+depend: [ProtocolLib]
+commands:
+  boom:
+    description: boom
